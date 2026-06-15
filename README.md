@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-puente-de-los-suspiros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for El puente de los suspiros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-puente-de-los-suspiros/) |
+| **Get License** | [Get a Licensing Quote for El puente de los suspiros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-puente-de-los-suspiros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit f928b64286ea8851181ad86b29f6041902bf02d7
+> Tú me miras y se para el tiempo en la ciudad
+> Ese brillo en tus ojos me dice la verdad
+> Rompiendo la noche, buscando tu calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

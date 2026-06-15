@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-puente-de-los-suspiros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El puente de los suspiros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-puente-de-los-suspiros/) |
+| **Get License** | [Request Licensing for El puente de los suspiros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-puente-de-los-suspiros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `13c5cf39f4c4b986597a10e96d6a6922ca9311dcca0fcf74c7bb0f8595744087` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
